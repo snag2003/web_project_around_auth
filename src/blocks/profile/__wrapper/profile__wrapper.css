@@ -1,0 +1,11 @@
+.profile__wrapper {
+  display: flex;
+  align-items: center;
+  max-width: 428px;
+}
+
+@media screen and (max-width: 600px) {
+  .profile__wrapper {
+    justify-content: center;
+  }
+}

@@ -1,0 +1,21 @@
+.authorize__button {
+  color: black;
+  background-color: white;
+  height: 50px;
+  width: 100%;
+  font-family: "Inter", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  margin-top: 200px;
+  border: none;
+  border-radius: 2px;
+  padding: 0;
+}
+
+.authorize__button:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}

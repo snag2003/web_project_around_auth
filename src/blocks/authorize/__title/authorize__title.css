@@ -1,0 +1,12 @@
+.authorize__title {
+  background: transparent;
+  width: 100%;
+  margin-top: 65px;
+  border: none;
+  font-family: "Inter", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 29px;
+  color: white;
+}

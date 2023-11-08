@@ -1,0 +1,8 @@
+.popup__infotooltip-image_status_success {
+  width: 120px;
+  height: 120px;
+  background: url(../../../../images/success.jpg);
+  margin: 50px auto 30px;
+  padding: 0%;
+  background-repeat: no-repeat;
+}
