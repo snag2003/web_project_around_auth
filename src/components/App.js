@@ -108,7 +108,7 @@ function App() {
           console.log(err);
         });
     }
-  }, []);
+  }, [history]);
 
   return (
     <div className="page">

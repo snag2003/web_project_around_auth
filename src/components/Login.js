@@ -17,7 +17,7 @@ function Login(props) {
     if (localStorage.getItem("jwt")) {
       history.push("/around");
     }
-  }, []);
+  }, [history]);
 
   return (
     <Authorize

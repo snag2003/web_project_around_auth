@@ -14,7 +14,7 @@ function Register(props) {
     if (localStorage.getItem("jwt")) {
       history.push("/around");
     }
-  }, [props.loggedIn]);
+  }, [history, props.loggedIn]);
 
   return (
     <Authorize
